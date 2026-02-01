@@ -1,0 +1,1 @@
+// base de un componente de estado
