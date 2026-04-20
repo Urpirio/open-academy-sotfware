@@ -21,8 +21,7 @@ export default function AlertDialogCerrarSesion() {
           <AlertDialogTitle>¿Ya te vas?</AlertDialogTitle>
           <AlertDialogDescription>
             Si cierras sesión ahora, tendrás que volver a introducir tus
-            credenciales la próxima vez que quieras acceder. ¿Estás seguro de
-            que deseas salir?
+            cr
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
